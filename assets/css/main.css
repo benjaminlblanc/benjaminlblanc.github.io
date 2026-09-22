@@ -127,7 +127,7 @@ element {
 	body, input, select, textarea {
 		color: #888888;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 16pt;
+		font-size: 1.25rem;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -2710,7 +2710,7 @@ element {
 
 	#main {
 		margin-left: 35%;
-		max-width: 54em;
+		max-width: 58em;
 		padding: 6em 4em 4em 4em;
 		width: calc(100% - 35%);
 	}

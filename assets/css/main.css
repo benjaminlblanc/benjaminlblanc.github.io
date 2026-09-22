@@ -3033,7 +3033,7 @@ element {
 				}
 
 					#header h1 br {
-						display: none;
+						display: inline;
 					}
 
 				#header > .inner {
@@ -3232,7 +3232,7 @@ element {
 			}
 
 				#header h1 br {
-					display: none;
+					display: inline;
 				}
 
 		/* Footer */
